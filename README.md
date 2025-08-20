@@ -12,7 +12,7 @@ Prerequisites
 •	CUDA-capable GPU (optional, for accelerated training)
 Setup
 1.	Clone the repository:
-git clone https://github.com/username/harmonic-hpc-scheduler.git
+https://github.com/myandelaepu/HARMONIC_uncertainty_aware.git
 cd harmonic-hpc-scheduler
 2.	Create virtual environment:
 python -m venv harmonic_env
